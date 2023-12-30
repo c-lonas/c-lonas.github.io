@@ -2,6 +2,20 @@
 layout: default
 ---
 
+Welcome to the Project and DevLog stuff
+
+
+Maybe keep a running checkbox thing of things that have been done and things that are on the docket
+
+
+
+
+
+
+
+
+
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
@@ -118,10 +132,18 @@ end
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
 
-{% for post in site.posts %}
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  <p>{{ post.excerpt }}</p>
-{% endfor %}
+<section id="recent-posts">
+  {% for post in site.posts limit:3 %}
+    <article>
+      <a href="{{ post.url }}">
+        <img src="{{ post.thumbnail }}" alt="{{ post.title }} thumbnail">
+        <h3>{{ post.title }}</h3>
+      </a>
+      <p>{{ post.excerpt }}</p>
+    </article>
+  {% endfor %}
+</section>
+
 
 ```
 The final element.
