@@ -11,24 +11,10 @@ _Note: Due to starting this DevLog a few weeks after actually starting the proje
 
 
 
-Create a HUD to create tile maps in Editor Mode
+* Getting the Current Hex 
 
-### requirements
-* Add Elevation options 
+* mention the bug where I needed to check at the appropriate time if a valid hex object was found
 
+* Creating the overlay thing 
 
-### goals
-* idk
-
-
-
-
-## Making HUD stuff and options
-Adding HUD stuff
-
-
-## Hooking up the HUD to the tile elevation logic
-
-
-
-notes- randomizer and plateau all good, parabola not really getting desired effect- rather than troubleshoot this, we'll keep moving with minimum viable product for now until we get to the key thing, which is proof of concept on the core gameplay mechanics. No sense worrying about specific terrain adjustment stuff that may or may not be relevant
+* Creating the Vertex spheres

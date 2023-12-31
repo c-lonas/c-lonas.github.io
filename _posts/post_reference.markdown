@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DevLog 1 - Editor HUD Part I"
+title:  ""
 date:   2023-12-30 0
 categories: jekyll update
 ---

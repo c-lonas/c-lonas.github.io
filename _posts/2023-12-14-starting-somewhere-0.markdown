@@ -19,7 +19,7 @@ The game draws inspiration from a few disparate sources
 
 - Survival stuff
 
-* time stuff
+* Time theme
 
 The concept of using time as not only a resource but as a currency of sorts is directly inspired from the 2011 sci-film film [In Time](https://en.wikipedia.org/wiki/In_Time)
 <div class="tenor-gif-embed" data-postid="23363545" data-share-method="host" data-aspect-ratio="1.82857" data-width="50%"><a href="https://tenor.com/view/intime-arm-timer-gif-23363545">Intime Arm Timer GIF</a>from <a href="https://tenor.com/search/intime-gifs">Intime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
