@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Devlog 0 - Starting Somewhere"
-date:   2023-12-29 08:40:20 -0800
+title:  "DevLog 0 - Starting Somewhere"
+date:   2023-12-14 0
 categories: jekyll update
 ---
 
+_Note: Due to starting this DevLog a few weeks after actually starting the project, the first few posts are retroactive_
 
 ## Overview
 
