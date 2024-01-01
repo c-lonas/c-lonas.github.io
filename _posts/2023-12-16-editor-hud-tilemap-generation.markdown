@@ -12,7 +12,7 @@ In this step I create an Editor Mode HUD in order to create tile maps while adju
 
 > I'm not going to walk through every step and every node, I'm going to try to paint a more general picture of the process and decisions being made. If you're working on a similar project and are stuck on something I didn't explain (whether I skipped it, I didn't explain it in detail, or I just explained it poorly) feel free to reach out on Discord and I'll help out if I can.
 
-<span style="color: cyan">Note: Due to starting this DevLog a few weeks after actually starting the project, the first few posts were written retroactively</span>
+<span style="color: cyan"> Note: Due to starting this DevLog a few weeks after actually starting the project, the first few posts were written retroactively </span>
 
 ### HUD Requirements - TileMap Generation
 

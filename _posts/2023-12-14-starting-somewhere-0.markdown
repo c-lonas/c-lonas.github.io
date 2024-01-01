@@ -72,6 +72,8 @@ Since the underlying formulas for working with hexagonal grids are consistent an
 
 This made it easier to jump into learning the Unreal Engine environment by having something with which to play around.
 
+<br>
+
 ## Engine
 
 Reasons for using Unreal
