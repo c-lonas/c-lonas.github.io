@@ -3,6 +3,15 @@
     right: 0;
 }
 
+.left-text-right-media {
+    display: flex;
+    align-items: center;
+}
+
+.left-text-right-media > div {
+    flex: 1; /* This assigns equal flexibility to both children */
+}
+
 /* Sidebar Navigation Styles */
 #sidebar {
     width: 250px;

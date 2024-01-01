@@ -9,26 +9,50 @@ _Note: Due to starting this DevLog a few weeks after actually starting the proje
 
 ## Overview
 
-Worked on a different version of this game idea in the past in Unity, some major conceptual changes in this iteration.
 
 The game draws inspiration from a few disparate sources
-- Open world, sandbox 
-<div class="tenor-gif-embed" data-postid="21973619" data-share-method="host" data-aspect-ratio="1.77778" data-width="50%"><a href="https://tenor.com/view/zelda-breath-of-the-wild2-breath-of-the-wild-the-legend-of-zelda-gif-21973619">Zelda Breath Of The Wild2 GIF</a>from <a href="https://tenor.com/search/zelda-gifs">Zelda GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-- Narrative driven progression
+<br>
+* Open world, Sandbox
 
-- Survival stuff
+<div class="left-text-right-media">
+    <div>
+        Add Description Here
+    </div>
+    <div class="tenor-gif-embed" data-postid="21973619" data-share-method="host" data-aspect-ratio="1.77778" data-width="50%"><a href="https://tenor.com/view/zelda-breath-of-the-wild2-breath-of-the-wild-the-legend-of-zelda-gif-21973619">Zelda Breath Of The Wild2 GIF</a>from <a href="https://tenor.com/search/zelda-gifs">Zelda GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</div>
 
+<br>
+* Narrative driven progression
+<div class="left-text-right-media">
+    <div>
+        Add Description Here
+    </div>
+    <div>
+        <img src="/static/0-starting-somewhere-assets/firsttree.webp" alt="TheFirstTree"> 
+    </div>
+</div>
+<!-- - Survival stuff -->
+
+<br>
 * Time theme
+<div class="left-text-right-media">
+    <div>
+        The concept of using time as not only a resource but as a currency of sorts is directly inspired from the 2011 sci-film film <a href="https://en.wikipedia.org/wiki/In_Time" target="_blank"> In Time </a>
+    </div>
+    <div class="tenor-gif-embed" data-postid="23363545" data-share-method="host" data-aspect-ratio="1.82857" data-width="50%"><a href="https://tenor.com/view/intime-arm-timer-gif-23363545">Intime Arm Timer GIF</a>from <a href="https://tenor.com/search/intime-gifs">Intime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</div>
 
-The concept of using time as not only a resource but as a currency of sorts is directly inspired from the 2011 sci-film film [In Time](https://en.wikipedia.org/wiki/In_Time)
-<div class="tenor-gif-embed" data-postid="23363545" data-share-method="host" data-aspect-ratio="1.82857" data-width="50%"><a href="https://tenor.com/view/intime-arm-timer-gif-23363545">Intime Arm Timer GIF</a>from <a href="https://tenor.com/search/intime-gifs">Intime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<br>
+* Platform Fighters 
+<div class="left-text-right-media">
+    <div class="left-text">
+        Specifically Super Smash Brothers Melee.
+        Fun and intuitive to use as a beginner and/or a casual player, but a nearly limitless skill ceiling that enables fast and rewarding movement and gameplay options.
+    </div>
+    <div class="tenor-gif-embed" data-postid="4690309711854426166" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/melee-ssbm-ssb-melee-fox-melee-fox-gif-4690309711854426166">Melee Ssbm GIF</a>from <a href="https://tenor.com/search/melee-gifs">Melee GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</div>
 
-- Platform Fighters 
-
-Specifically Super Smash Brothers Melee.
-Fun and intuitive to use as a beginner and/or a casual player, but a nearly limitless skill ceiling that enables fast and rewarding movement and gameplay options.
-<div class="tenor-gif-embed" data-postid="4690309711854426166" data-share-method="host" data-aspect-ratio="1.76596" data-width="50%"><a href="https://tenor.com/view/melee-ssbm-ssb-melee-fox-melee-fox-gif-4690309711854426166">Melee Ssbm GIF</a>from <a href="https://tenor.com/search/melee-gifs">Melee GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 <br>
