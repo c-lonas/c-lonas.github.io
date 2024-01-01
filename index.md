@@ -30,3 +30,6 @@ I began tinkering around with what would form the conceptual basis of the curren
 
 <br>
 * Recent Posts
+
+
+It would be cool if we showed the 'End Result' gifs of the recent posts.
