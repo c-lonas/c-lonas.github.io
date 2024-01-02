@@ -38,7 +38,7 @@ This demo gif showcases the progress that was made with this entry. I demonstrat
 Similar to the [previous entry](/jekyll/update/2023/12/16/editor-hud-tilemap-generation.html), after completing the steps below, I hooked it all up to a `Key Event`, where it takes in the input parameters as determined by the HUD elements and uses those in applying the transforms to the Tile Map. Note that these transforms are applied to a given shape, as determined by the same shape generation controls created previously.
 
 ![EndResultDemoGif](/static/2-editor-hud-elevation-manipulation-assets/EditorModeHUD-ElevationManipulation750.gif)
-_I'm experimenting with larger tile sizes here, which is why the values on the elevation controls are set so high, to make the changes are visible while being zoomed out pretty far_
+_I'm experimenting with larger tile sizes here, which is why the values on the elevation controls are set so high, to make the changes visible while being zoomed out pretty far_
 
 <br>
 

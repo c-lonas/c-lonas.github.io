@@ -37,7 +37,7 @@ This is a demo showcasing Tile Map persistence functionality (saving and loading
 
 ## Starting off
 
-I gave the documentation page on [Saving and Loading Your Game](https://docs.unrealengine.com/5.3/en-US/saving-and-loading-your-game-in-unreal-engine/) a quick look, but it didn't really answer the specific questions I had. If the bright screen hurts your eyes, they have a dark mode if you click on the three vertical dots next to the 'Search Documentation' box.
+I gave the page on <a href="https://docs.unrealengine.com/5.3/en-US/saving-and-loading-your-game-in-unreal-engine/" target="_blank"> Saving and Loading Your Game</a> from the UE5 docs a quick look, but it didn't really answer the specific questions I had. If the bright screen hurts your eyes, they have a dark mode you can toggle if you click on the three vertical dots next to the 'Search Documentation' box.
 
 <br>
 
