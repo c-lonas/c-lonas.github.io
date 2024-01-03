@@ -5,8 +5,9 @@ date:   2023-12-14 0
 categories: jekyll update
 ---
 
-_Note: Due to starting this DevLog a few weeks after actually starting the project, the first few posts are retroactive_
+<span style="color: red"> Note to self, see if you can save the gifs so the links dont potentially break later </span>
 
+<span style="color: cyan"> Note: Due to starting this DevLog a few weeks after actually starting the project, the first few posts were written retroactively </span>
 ## Overview
 
 
@@ -19,7 +20,9 @@ The game draws inspiration from a few disparate sources
     <div>
         Add Description Here
     </div>
-    <div class="tenor-gif-embed" data-postid="21973619" data-share-method="host" data-aspect-ratio="1.77778" data-width="50%"><a href="https://tenor.com/view/zelda-breath-of-the-wild2-breath-of-the-wild-the-legend-of-zelda-gif-21973619">Zelda Breath Of The Wild2 GIF</a>from <a href="https://tenor.com/search/zelda-gifs">Zelda GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+    <div>
+        <img src="/static/0-starting-somewhere-assets/zelda-breath-of-the-wild.gif" alt="BreathOfTheWild-OpenAdventureGif"> 
+    </div>
 </div>
 
 <br>

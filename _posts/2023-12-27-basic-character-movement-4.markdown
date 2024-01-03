@@ -13,7 +13,7 @@ With basic controls in place to create and manipulate a Tile Map, time to shift 
 
 
 ### requirements
-* Add Elevation options 
+* Implement basic character locomotion
 
 
 ### goals
@@ -30,6 +30,8 @@ Insert `EndResult` demo gif here
 
 The progress in this entry ended up being pretty straightforward, I basically just followed along with this <a href="https://docs.unrealengine.com/5.0/en-US/setting-up-character-movement" target="_blank"> Setting Up Character Movement Guide</a> from the UE5 docs.
 
+<br>
+
 # Migrating from Axis and Action Mappings
 
 I followed along with the tutorial and got things working, but I did see this warning when setting up the bindings:
@@ -37,4 +39,22 @@ I followed along with the tutorial and got things working, but I did see this wa
 ![AxisAndActionMappingsDeprecatedWarning](/static/4-basic-character-movement-assets/AxisAndActionMappingsDeprecatedWarning.png)
 
 
-So I'm going to try to migrate those over so I have something to write up in this entry besides just follow the guide in the link above.
+So I'm going to try to migrate those over.
+
+
+[Enhanced Input Documentation](https://docs.unrealengine.com/5.3/en-US/enhanced-input-in-unreal-engine/)
+
+
+I'm not positive, but I think the Enhnaced Input features will ultimately be helpful for the movement system I have in mind, so to begin with, we'll just migrate over one action to test it out.
+
+The documentation here is good, but it holds your hand a little less the 'Setting Up Character Movement Guide' listed above, so I'll fill connect the dots a little here. You know, in case your hand is getting cold.
+
+![HoldingHandsGif](/static/4-basic-character-movement-assets/holding-hands.gif)
+
+We'll start with Jumping, so I'll disconnect the Jump node from the previous setup. This is more or less what you'll have after following along with the 'Setting Up Character Movement Guide'.
+
+![DisconnectLegacyJump](/static/4-basic-character-movement-assets/DisconnectLegacyJump.png)
+
+Next we're going to need two things:
+1. An `Input Action`, and
+1. An `Input Mapping Context`
