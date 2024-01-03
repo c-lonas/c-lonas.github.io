@@ -5,8 +5,6 @@ date:   2023-12-14 0
 categories: jekyll update
 ---
 
-<span style="color: red"> Note to self, see if you can save the gifs so the links dont potentially break later </span>
-
 <span style="color: cyan"> Note: Due to starting this DevLog a few weeks after actually starting the project, the first few posts were written retroactively </span>
 ## Overview
 
@@ -43,7 +41,9 @@ The game draws inspiration from a few disparate sources
     <div>
         The concept of using time as not only a resource but as a currency of sorts is directly inspired from the 2011 sci-film film <a href="https://en.wikipedia.org/wiki/In_Time" target="_blank"> In Time </a>
     </div>
-    <div class="tenor-gif-embed" data-postid="23363545" data-share-method="host" data-aspect-ratio="1.82857" data-width="50%"><a href="https://tenor.com/view/intime-arm-timer-gif-23363545">Intime Arm Timer GIF</a>from <a href="https://tenor.com/search/intime-gifs">Intime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+    <div>
+        <img src="/static/0-starting-somewhere-assets/intime-arm-timer.gif" alt="InTimeArmTimer"> 
+    </div>
 </div>
 
 <br>
@@ -53,7 +53,9 @@ The game draws inspiration from a few disparate sources
         Specifically Super Smash Brothers Melee.
         Fun and intuitive to use as a beginner and/or a casual player, but a nearly limitless skill ceiling that enables fast and rewarding movement and gameplay options.
     </div>
-    <div class="tenor-gif-embed" data-postid="4690309711854426166" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/melee-ssbm-ssb-melee-fox-melee-fox-gif-4690309711854426166">Melee Ssbm GIF</a>from <a href="https://tenor.com/search/melee-gifs">Melee GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+    <div>
+        <img src="/static/0-starting-somewhere-assets/melee-fox-oscar.gif" alt="MeleeMovement"> 
+    </div>
 </div>
 
 
