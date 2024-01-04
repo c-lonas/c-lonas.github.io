@@ -7,7 +7,8 @@ Welcome to my devlog!
 The current development focus is to create a prototype of the core systems, especially the movement concepts. The goal here is to verify as quickly as possible whether or not the game is _fun_ and _feels good to play_. The game is currently overflowing with ideas, and we need to identify which of those ideas are worth building around, which are worth modifying or incorporating as minor elements, and which need to be cut.
 
 A few things to add to this homepage over the next few weeks:
-A 
+a checklist
+a docket or something 
 
 
 <br>
@@ -21,6 +22,11 @@ This is a hex-based, open-world adventure game with a couple twists:
 * Backlog, Docket, Checklist
 
 Maybe keep a running checkbox thing of things that have been done and things that are on the docket
+
+### Docket
+* Basic Animation
+* Less Basic Movement Framework
+* Local Vertex Movement
 
 <br>
 * History
