@@ -177,9 +177,9 @@ I suppose there is a similar effect with the `VertexWorldLocation` parameter on 
 
 ## Other Thoughts
 
-Today I discovered the 'Collapsed Graph' option when I tried to make a function containing the `Timeline` for the lerp, and discovered that you can't put `Timeline` nodes inside functions. This seems like a handy option, but I'll need to spend some time considering when I should use functions and when I should use the Collapsed Graph option. 
+Today I discovered the 'Collapsed Graph' option when I tried to make a function containing the `Timeline` for the lerp, and discovered that you can't put `Timeline` nodes inside functions. This seems like a handy option, but I'll need to spend some time considering when I should use functions and when I should use a Collapsed Graph. 
 
-I mean the obvious answer is that functions are about creating modular code snippets that can be re-used in other contexts to improve maintanability and scalability, whereas Collapsed Graphs are more like 'folding' the code to improve readability. But since I've been using functions for both purposes when visual scripting, it will take a little time to process both of these options and understand how to use them idiomatically in the context of game development.
+I mean the obvious answer is that functions are about creating modular code snippets that can be re-used in other contexts to improve maintainability and scalability, whereas Collapsed Graphs are more like 'folding' the code to improve readability. But since I've been using functions for both purposes when visual scripting, it will take a little time to process both of these options and understand how to use them idiomatically in the context of game development.
 
 
 *ALSO*
