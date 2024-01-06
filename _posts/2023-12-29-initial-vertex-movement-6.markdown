@@ -172,8 +172,7 @@ Then we call `SweepCharacterToVertex`, and we're done!
 
 I suppose there is a similar effect with the `VertexWorldLocation` parameter on `SweepCharacterToVertex`, but again, that was just an oversight.
 
-
-
+<br>
 
 ## Other Thoughts
 
